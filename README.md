@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Alberto 👋
+**Estudiando desarrollo web**
+## 👨‍💻 About me
+Actualmente estoy estudiando el segundo año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la tecnología, la programación y la creación de aplicaciones web funcionales.
 
-<!--
-**Alberto-Avila-Orero/Alberto-Avila-Orero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me considero una persona curiosa, con ganas de seguir aprendiendo, afrontar nuevos retos y crecer personalmente en el sector tecnológico.
 
-Here are some ideas to get you started:
+## 🛠️ Lenguaje y herramientas
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+![Backend](https://skillicons.dev/icons?i=php)
+
+### Bases de datos
+![Bases de datos](https://skillicons.dev/icons?i=mysql)
+
+### Control de versiones
+![Control de versiones](https://skillicons.dev/icons?i=git,github)
+
+## 🌱 Actualmente aprendiendo
+Estoy aprendiendo nuevas tecnologías y frameworks de desarrollo web. <br><br>
+![Tecnologías](https://skillicons.dev/icons?i=angular,react,mongodb,laravel,docker)
+## 🚀 Proyectos destacados
+Aplicación web de planificación y seguimiento de entrenamientos
+deportivos, creada mediante herramientas de inteligencia artificial
+como proyecto personal para explorar nuevas formas de desarrollo
+de software.
+🔗 [Ver aplicación Vitalo](https://prismatic-crumble-916bd5.netlify.app)
+
+## 🎯 Objetivos profesionales
+Mi objetivo es seguir desarrollando mis habilidades como programador, adquirir experiencia profesional y participar en proyectos que me permita aprender nuevas tecnologías.
+## 📫 Contacto
+**LinkedIn -** https://www.linkedin.com/in/alberto-avila-orero <br>
+**Email -** avilaorero@gmail.com
+**Portfolio -**
+
