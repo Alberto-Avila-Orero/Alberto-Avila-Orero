@@ -42,12 +42,12 @@ funcional, modo claro y oscuro y diseño responsive.
 
 ### 🎨 Tablero interactivo con JavaScript
 
-Proyecto académico centrado en la manipulación del DOM,
-la gestión de eventos y la interacción con el usuario.
-Permite desplazarse por un tablero, seleccionar colores
-y pintar casillas.
+Proyecto académico centrado en la manipulación del DOM, la gestión de eventos y la interacción con el usuario.
+Permite desplazarse por un tablero, seleccionar colores y pintar casillas.
 
-📂 [Ver repositorio](https://github.com/Alberto-Avila-Orero/Tablero-JavaScript)
+🔗 [Ver demostración](https://alberto-avila-orero.github.io/Tablero-JavaScript/)
+
+📂 [Código fuente](https://github.com/Alberto-Avila-Orero/Tablero-JavaScript)
 
 ## 🎯 Objetivos profesionales
 
