@@ -1,6 +1,6 @@
-# Hi there, I'm Alberto 👋
-**Estudiando desarrollo web**
-## 👨‍💻 About me
+# Hola, soy Alberto 👋
+
+## 👨‍💻 Sobre mi
 Actualmente estoy estudiando el segundo año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la tecnología, la programación y la creación de aplicaciones web funcionales.
 
 Me considero una persona curiosa, con ganas de seguir aprendiendo, afrontar nuevos retos y crecer personalmente en el sector tecnológico.
