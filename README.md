@@ -25,13 +25,13 @@ Estoy aprendiendo nuevas tecnologías y frameworks de desarrollo web. <br><br>
 Aplicación web de planificación y seguimiento de entrenamientos
 deportivos, creada mediante herramientas de inteligencia artificial
 como proyecto personal para explorar nuevas formas de desarrollo
-de software.
+de software.<br>
 🔗 [Ver aplicación Vitalo](https://prismatic-crumble-916bd5.netlify.app)
 
 ## 🎯 Objetivos profesionales
 Mi objetivo es seguir desarrollando mis habilidades como programador, adquirir experiencia profesional y participar en proyectos que me permita aprender nuevas tecnologías.
 ## 📫 Contacto
 **LinkedIn -** https://www.linkedin.com/in/alberto-avila-orero <br>
-**Email -** avilaorero@gmail.com
+**Email -** avilaorero@gmail.com <br>
 **Portfolio -**
 
